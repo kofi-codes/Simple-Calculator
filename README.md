@@ -1,0 +1,1 @@
+Calculator web app built with HTML, CSS, and JavaScript featuring basic arithmetic operations and interactive UI. This project was built as part of my journey in learning front-end development and improving my JavaScript fundamentals.
